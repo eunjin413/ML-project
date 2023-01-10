@@ -1,4 +1,4 @@
 # ML-project
 
- <A href="http://daum.net"> 다음 사이트로 연결 </A>
+ <A href="EDA.ipynb"> 곽은진 </A>
   <P>
